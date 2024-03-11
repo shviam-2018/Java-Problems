@@ -1,0 +1,27 @@
+type: sorting
+options:
+  - Print a string
+  - Print an integer
+  - Print a character
+files:
+  - name: src/Task.java
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      public class Task {
+        public static void main(String[] args) {
+          // put your code here
+        }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/39423#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 09 Mar 2024 15:07:35 UTC"
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2

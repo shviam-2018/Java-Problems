@@ -1,0 +1,30 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.Scanner;
+      
+      public class Main {
+          public static void main(String[] args) {
+              // Create a Scanner object to read input
+              Scanner scanner = new Scanner(System.in);
+      
+              // 1. Read an integer from the standard input
+              // Start writing your code here.
+      
+              // 2. Find out if the number is EVEN or ODD and print it.
+              // Start writing your code here.
+      
+              // 3. Calculate and print the absolute value of the input number.
+              // Start writing your code here.
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/44632#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 11 Mar 2024 19:40:40 UTC"
+record: -1
+submission_language: java17

@@ -1,0 +1,31 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: a
+  - text: b
+  - text: c
+  - text: d
+files:
+  - name: src/Task.java
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      public class Task {
+        public static void main(String[] args) {
+          // put your code here
+        }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3763#comment
+status: Solved
+feedback:
+  message: |-
+    <html>Your mastery of the two Java printing methods is evident!
+
+    </html>
+  time: "Mon, 11 Mar 2024 19:06:06 UTC"
+record: -1
+selected_options:
+  - 1
+local_check: false
