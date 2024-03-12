@@ -20,9 +20,7 @@ files:
 feedback_link: https://hyperskill.org/learn/step/42957#comment
 status: Solved
 feedback:
-  message: |-
-    <html>You've used all 5 of your lives for today.
-    Use this pause to revisit theory, and we'll see you tomorrow for more practice!</html>
-  time: "Mon, 11 Mar 2024 20:01:16 UTC"
+  message: <html>Correct solution</html>
+  time: "Tue, 12 Mar 2024 18:34:31 UTC"
 record: -1
 submission_language: java17

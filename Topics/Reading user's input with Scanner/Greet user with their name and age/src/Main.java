@@ -9,7 +9,7 @@ public class Main {
         String name = sc.nextLine();
         int age = sc.nextInt();
         // Print the message using the user's name and age.
-        System.out.println("Welcome, " + name + "! " + "you are " + age + " years old.");
+        System.out.println("Welcome, " + name + "! " + "You are " + age + " years old.");
 
     }
 }
